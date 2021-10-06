@@ -1,0 +1,15 @@
+*~
+*.swp
+*.log
+
+/docs/
+/IPsecRepack/
+
+__pycache__/
+
+target/
+Cargo.lock
+
+/buildroot-*/
+
+!.gitignore

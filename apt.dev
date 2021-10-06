@@ -1,0 +1,4 @@
+code meld doxygen
+build-essential
+rsync
+qemu-system-i386
